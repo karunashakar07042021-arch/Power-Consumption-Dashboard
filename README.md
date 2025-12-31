@@ -1,2 +1,2 @@
-# Power-Consumption-Dashboard-
-Power-Consumptions-Dashboard
+# Power-Consumption-Dashboard
+
